@@ -322,4 +322,4 @@ Pokémon poisoned by Pecharunt's moves will also become confused.,"Lorsque Pêch
 "While the Pokémon is in battle, all other Pokémon pass stat changes and certain volatile statuses to the party Pokémon in waiting they switch places with.",-,-,-,-,-,-
 "When the Pokémon enters a battle, it changes opposing Pokémon's gender to the opposite of its own. Gives priority to the Pokémon's gender-based moves.",-,-,-,-,-,-
 Uses punching moves 4 times in a row for 2 PP. These moves' secondary effects may trigger only on the first 2 hits per use.,-,-,-,-,-,-
-Silk and net moves also sharply lower targets' Evasion.,-,-,-,-,-,-
+"Silk and net moves also lower targets' evasiveness and chances of dodging one-hit KO moves.",-,-,-,-,-,-
