@@ -1,6 +1,6 @@
 {
   "klass": "Move",
-  "id": 953,
+  "id": 960,
   "dbSymbol": "fan_out",
   "mapUse": 0,
   "battleEngineMethod": "s_fan_out",
